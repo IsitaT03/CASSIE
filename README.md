@@ -9,6 +9,5 @@ The experimental results show that an ANN-based method is a viable approach to p
 
 I named my ANN Cassie, short for Cassandra, based on the Greek Mythological character that foretold the future.
 
-Link to Project on Google Science Fair: https://www.googlesciencefair.com/projects/2018/8ffa5ed7e2e3deccc489b556bc4c6672dc6cb583fd4f22ef775f0713ebe86c0e
-
+Link to Project Presentation for Google Science Fair: https://tinyurl.com/wildfire-italukdar
 
